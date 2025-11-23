@@ -1,0 +1,7 @@
+{
+  "documents": 33,
+  "chunks": 124,
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "persist_directory": "artifacts\\chroma_index"
+}
